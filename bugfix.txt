@@ -1,0 +1,6 @@
+Bug Fix Log
+
+- Fixed minor content issues
+- Improved file structure
+
+Author: Hannah Nicole Macrohon
